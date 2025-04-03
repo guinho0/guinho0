@@ -2,7 +2,7 @@
 <h1 align="center">Olá 👋,eu sou Thiago Augusto de Carvalho</h1>
 <h3 align="center">Entusiasta do mundo da Ciência de Dados</h3>
 
-- 🌱 Atualmente estou aprendendo **Python para data Science**
+- 🌱 Atualmente estou aprendendo **Python para Data Science/ Data Analytics**
 
 - 📝 Eu escrevo artigos no site [https://medium.com/@thiagocarvalho150502](https://medium.com/@thiagocarvalho150502)
 
